@@ -35,9 +35,9 @@
             >;
         };
 
-	    sym_mods {
+        sym_mods {
             bindings = <
-	&kp KC_TILD &kp KC_EXLM    &kp KC_AT    &kp KC_HASH      &kp KC_DLR     &kp KC_PERC    &kp KC_CIRC      &kp KC_AMPR    &kp KC_ASTR    &kp KC_LPRN   &kp KC_RPRN   &kp BSPC
+&kp KC_TILD &kp KC_EXLM    &kp KC_AT    &kp KC_HASH      &kp KC_DLR     &kp KC_PERC    &kp KC_CIRC      &kp KC_AMPR    &kp KC_ASTR    &kp KC_LPRN   &kp KC_RPRN   &kp BSPC
     &kp TAB   &kp F1    &kp F2   &kp F3   &kp F4      &kp F5      &kp KC_UNDS   &kp PG_UP &kp KC_PLUS  &kp KC_LCBR &kp KC_RCBR  &kp KC_PIPE
     &kp LSHFT &kp F7    &kp F8   &kp F9   &kp F10     &kp F11    &kp F12   &kp EQUAL   &kp PG_DN &kp HOME  &kp END  &kp ENTER
     &kp LCTRL &kp LGUI  &kp LALT &reset   trans 	  &trans     &trans    &trans &kp C_NEXT  &kp C_VOLUME_DOWN &kp C_VOLUME_UP   &kp C_PLAY_PAUSE
